@@ -1,0 +1,27 @@
+{
+  "confusion_matrix": [
+    [
+      2065,
+      26,
+      977
+    ],
+    [
+      276,
+      31,
+      662
+    ],
+    [
+      359,
+      44,
+      13946
+    ]
+  ],
+  "labels": [
+    "Negative",
+    "Neutral",
+    "Positive"
+  ],
+  "logistic_regression_accuracy": 0.8725116936799739,
+  "naive_bayes_accuracy": 0.853203524420755,
+  "neural_network_accuracy": 0.8429
+}
